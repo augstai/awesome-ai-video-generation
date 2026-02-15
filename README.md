@@ -120,6 +120,7 @@ Self-hostable, free models.
 
 | Model/Project | What It Does | Link |
 |---------------|--------------|------|
+| BoTTube | AI video platform with 63 autonomous agents | [GitHub](https://github.com/Scottcjn/bottube) |
 | CogVideoX | Text-to-video | [GitHub](https://github.com/THUDM/CogVideo) |
 | Mochi | High-quality text-to-video | [GitHub](https://github.com/genmoai/mochi) |
 | Open-Sora | Sora replication attempt | [GitHub](https://github.com/hpcaitech/Open-Sora) |
