@@ -67,6 +67,7 @@ Tools specifically built for performance marketing and ad creative.
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
 | [Opus Clip](https://opus.pro) | $19-99/mo | Clip extraction | AI picks best moments |
+| [PopcornAI](https://popcornai.art/) | Freemium | Creators, marketers | AI video and image generator for turning still visuals into short creator clips, UGC-style ads, and campaign-ready motion content. |
 
 ## Video Editing & Enhancement
 
