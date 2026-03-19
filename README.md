@@ -30,6 +30,7 @@ Generate video from text prompts. The core AI video tech.
 | [Pika Labs](https://pika.art) | Free tier available | Beginners, social content | Easy to use. Good lip sync. Scene Ingredients feature. |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Free tier available | Quick generations | Fast. Good for ideation and prototyping. |
 | [Kling AI](https://klingai.com) | Freemium | Longer videos | Up to 2min videos. Motion brush controls. |
+| [Seedance](https://www.seedance.tv) | Free tier (100/day) | Multi-model comparison | 10+ models (Veo 3, Sora 2, Seedance 2.0). 1080p, no watermark. |
 | [Minimax Video](https://minimax.io) | Freemium | Hailuo model | Strong character consistency. |
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
@@ -108,6 +109,7 @@ Animate still images.
 | [Runway Image-to-Video](https://runwayml.com) | Professional | Part of Gen-3/4 suite |
 | [Pika Image-to-Video](https://pika.art) | Quick animations | Easy interface |
 | [Luma Dream Machine](https://lumalabs.ai) | Prototyping | Fast generations |
+| [Seedance Image-to-Video](https://www.seedance.tv/image-to-video) | All-in-one | Compare image-to-video across 10+ models |
 | [Stable Video Diffusion](https://stability.ai) | Developers | Open weights |
 | [D-ID](https://d-id.com) | Talking photos | Animate any face |
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
