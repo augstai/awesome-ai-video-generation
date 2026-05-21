@@ -34,6 +34,7 @@ Generate video from text prompts. The core AI video tech.
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
+| [Seedance AI](https://seedance2.cloud) | Freemium | Cinematic 1080p video | Powered by Seedance 2.0 model. Text-to-video + image-to-video with motion control and reference image support. |
 
 ## AI Avatars & Talking Heads
 
