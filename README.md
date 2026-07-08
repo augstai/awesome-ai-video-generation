@@ -126,6 +126,7 @@ Self-hostable, free models.
 | Stable Video Diffusion | Image-to-video | [HuggingFace](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) |
 | AnimateDiff | Animate SD images | [GitHub](https://github.com/guoyww/AnimateDiff) |
 | Wav2Lip | Lip sync | [GitHub](https://github.com/Rudrabha/Wav2Lip) |
+| Podframes | Two-host AI podcast videos | [GitHub](https://github.com/Jellypod-Inc/podframes) |
 | LivePortrait | Portrait animation | [GitHub](https://github.com/KwaiVGI/LivePortrait) |
 | SadTalker | Talking head | [GitHub](https://github.com/OpenTalker/SadTalker) |
 | FILM | Frame interpolation | [GitHub](https://github.com/google-research/frame-interpolation) |
