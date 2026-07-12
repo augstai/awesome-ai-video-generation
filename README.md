@@ -34,6 +34,7 @@ Generate video from text prompts. The core AI video tech.
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
+| [ImagineClip](https://imagineclip.com/ai-text-to-video) | Freemium | Creators, social content | Text/image-to-video with video-to-video and creative-effect workflows. |
 
 ## AI Avatars & Talking Heads
 
