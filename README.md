@@ -80,6 +80,7 @@ AI-powered editing, not generation.
 | [Pictory](https://pictory.ai) | $23-79/mo | Blog-to-video | Text-based editing |
 | [FlexClip](https://flexclip.com) | Free-$20/mo | Simple edits | Templates, stock footage |
 | [Clipchamp](https://clipchamp.com) | Free (Microsoft) | Windows users | Integrated with Windows |
+| [Video Upscaler](https://videoupscaler.video) | Free to try | Browser-based upscaling | Resolution and clarity enhancement |
 | [Topaz Video AI](https://topazlabs.com) | $299 one-time | Upscaling | Best-in-class enhancement |
 | [Runway (Edit)](https://runwayml.com) | $15-76/mo | Advanced effects | Inpainting, remove objects |
 | [Wisecut](https://wisecut.video) | $15-57/mo | Auto-editing | Removes silences, pauses |
