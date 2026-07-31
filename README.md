@@ -63,7 +63,7 @@ Tools specifically built for performance marketing and ad creative.
 | [AdCreative.ai](https://adcreative.ai) | $29-149/mo | Ad variations | AI-scored creatives |
 | [Captions](https://captions.ai) | $15-50/mo | Short-form | AI editing, auto-captions |
 | [Invideo AI](https://invideo.io) | $25-60/mo | Faceless content | Text-to-video for YouTube |
-| [VideoGen](https://videogen.io/ai-video-generator) | Free tier, from $19/mo | Faceless & social content | Prompt/script to finished video with AI voiceover, subtitles, b-roll. Sora, Veo, Kling models. |
+| [VideoGen](https://videogen.io/ai-video-generator) | Free plan, from $12/mo | Faceless & social content | Prompt/script to finished video with AI voiceover, subtitles, b-roll. Sora, Veo, Kling models. |
 | [Shuffll](https://shuffll.com) | Custom | B2B video | Sales and marketing videos |
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
