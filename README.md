@@ -123,6 +123,7 @@ Self-hostable, free models.
 | CogVideoX | Text-to-video | [GitHub](https://github.com/THUDM/CogVideo) |
 | Mochi | High-quality text-to-video | [GitHub](https://github.com/genmoai/mochi) |
 | Open-Sora | Sora replication attempt | [GitHub](https://github.com/hpcaitech/Open-Sora) |
+| OrkasVideoStudio | Agent-native code-driven video production | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 | Stable Video Diffusion | Image-to-video | [HuggingFace](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) |
 | AnimateDiff | Animate SD images | [GitHub](https://github.com/guoyww/AnimateDiff) |
 | Wav2Lip | Lip sync | [GitHub](https://github.com/Rudrabha/Wav2Lip) |
