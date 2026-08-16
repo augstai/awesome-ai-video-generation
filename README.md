@@ -78,6 +78,7 @@ AI-powered editing, not generation.
 | [Kapwing](https://kapwing.com) | Free-$24/mo | Quick edits | Browser-based, collaborative |
 | [CapCut](https://capcut.com) | Free | TikTok creators | Auto-captions, effects |
 | [Pictory](https://pictory.ai) | $23-79/mo | Blog-to-video | Text-based editing |
+| [videos.social](https://videos.social/?utm_source=awesome-ai-video-generation&utm_medium=directory&utm_campaign=listing-wave-d) | 1 free render; packs from $10 | Blog-to-editable video | Script, scenes, voiceover you can still edit |
 | [FlexClip](https://flexclip.com) | Free-$20/mo | Simple edits | Templates, stock footage |
 | [Clipchamp](https://clipchamp.com) | Free (Microsoft) | Windows users | Integrated with Windows |
 | [Topaz Video AI](https://topazlabs.com) | $299 one-time | Upscaling | Best-in-class enhancement |
