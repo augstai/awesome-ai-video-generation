@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Lunalisa](https://luna-lisa.art) | Product photos, marketing posters | Extends stills from 13 image models (Nano Banana, Seedream, GPT Image 2) into motion with 22 video models including Kling and Veo |
 
 ## Open Source
 
