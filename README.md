@@ -138,6 +138,7 @@ Build video AI into your products.
 | API | Use Case | Docs |
 |-----|----------|------|
 | [Runway API](https://docs.runwayml.com) | Video generation | Full Gen-3 access |
+| [Magic Hour API](https://magichour.ai/api) | AI video and image generation | [Docs](https://docs.magichour.ai) |
 | [Replicate](https://replicate.com) | Model hosting | Run any open model |
 | [Fal.ai](https://fal.ai) | Fast inference | Lip sync, video models |
 | [Stability API](https://platform.stability.ai) | Stable Diffusion + Video | Image and video |
