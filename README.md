@@ -58,6 +58,7 @@ Tools specifically built for performance marketing and ad creative.
 | Tool | Pricing | Best For | Key Feature |
 |------|---------|----------|-------------|
 | [August](https://augstai.com) | Freemium | Performance marketers | URL-to-ad in minutes. Sora 2 powered. TikTok/Meta ready. |
+| [TaReel (秒剧)](https://textaireel.com) | Freemium ($1+/video) | Marketing & content creators | AI short-drama generation from text/image, lip-sync, multi-character dialogue |
 | [Arcads](https://arcads.ai) | $100-500/mo | DTC brands | UGC-style with AI actors |
 | [Creatify](https://creatify.ai) | $39-199/mo | E-commerce | URL-to-video, batch creation |
 | [AdCreative.ai](https://adcreative.ai) | $29-149/mo | Ad variations | AI-scored creatives |
