@@ -83,6 +83,7 @@ AI-powered editing, not generation.
 | [Topaz Video AI](https://topazlabs.com) | $299 one-time | Upscaling | Best-in-class enhancement |
 | [Runway (Edit)](https://runwayml.com) | $15-76/mo | Advanced effects | Inpainting, remove objects |
 | [Wisecut](https://wisecut.video) | $15-57/mo | Auto-editing | Removes silences, pauses |
+| [shortshort](https://www.shortshort.io) | Free tier, EUR 12-79/mo | Talks, podcasts, webinars | Cuts clips that end on a complete sentence |
 
 ## Lip Sync & Voice
 
