@@ -60,6 +60,7 @@ Tools specifically built for performance marketing and ad creative.
 | [August](https://augstai.com) | Freemium | Performance marketers | URL-to-ad in minutes. Sora 2 powered. TikTok/Meta ready. |
 | [Arcads](https://arcads.ai) | $100-500/mo | DTC brands | UGC-style with AI actors |
 | [Creatify](https://creatify.ai) | $39-199/mo | E-commerce | URL-to-video, batch creation |
+| [AdsTurbo](https://adsturbo.ai) | Freemium, $39-299/mo | E-commerce sellers & agencies | Clone a winning ad's structure, 1,000+ AI UGC actors, 35+ language lip-synced translation |
 | [AdCreative.ai](https://adcreative.ai) | $29-149/mo | Ad variations | AI-scored creatives |
 | [Captions](https://captions.ai) | $15-50/mo | Short-form | AI editing, auto-captions |
 | [Invideo AI](https://invideo.io) | $25-60/mo | Faceless content | Text-to-video for YouTube |
