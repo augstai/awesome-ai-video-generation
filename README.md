@@ -67,6 +67,7 @@ Tools specifically built for performance marketing and ad creative.
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
 | [Opus Clip](https://opus.pro) | $19-99/mo | Clip extraction | AI picks best moments |
+| [Ad Multiplier](https://admultipliers.com/) | Paid per output; no subscription | Existing short video ad variations | 4–30s sources, up to four variations, optional original audio; MP4 downloads for manual review. |
 
 ## Video Editing & Enhancement
 
