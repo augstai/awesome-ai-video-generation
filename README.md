@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Unforgettable Car AI](https://unforgettablecarai.cc) | Selfie → 24 card car reveal | Independent fan tool; optional car photo |
 
 ## Open Source
 
