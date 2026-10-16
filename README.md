@@ -113,6 +113,8 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [ChatGPT Millionaire AI](https://chatgptmillionaire.cc) | Selfie → “Get a job.” meme | Independent fan tool; pet photo OK |
+| [Hug In Heaven AI](https://huginheaven.cc) | Two photos → stairway reunion | Memorial fan tool; 18+ |
 
 ## Open Source
 
