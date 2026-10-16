@@ -63,6 +63,7 @@ Tools specifically built for performance marketing and ad creative.
 | [AdCreative.ai](https://adcreative.ai) | $29-149/mo | Ad variations | AI-scored creatives |
 | [Captions](https://captions.ai) | $15-50/mo | Short-form | AI editing, auto-captions |
 | [Invideo AI](https://invideo.io) | $25-60/mo | Faceless content | Text-to-video for YouTube |
+| [FacelessShorts](https://facelessshorts.io) | Subscription | Faceless series | Scripted, voiced, captioned shorts auto-posted to TikTok, Shorts, Reels |
 | [Shuffll](https://shuffll.com) | Custom | B2B video | Sales and marketing videos |
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
