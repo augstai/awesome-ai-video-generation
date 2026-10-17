@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Smalltown Boy AI](https://smalltownboyvideo.net) | Viral trend videos | Two photos (people or pets) → the Smalltown Boy scream-and-dance clip; free preview, pay per video |
 
 ## Open Source
 
