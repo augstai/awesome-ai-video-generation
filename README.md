@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Zombie Couple Video](https://zombiehugvideo.com) | Zombie couple social clips | Upload 2 photos, get a 15s 720p video with audio. Paid: $6.90 per video or $24.90 for 5 |
 
 ## Open Source
 
