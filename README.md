@@ -130,6 +130,7 @@ Self-hostable, free models.
 | SadTalker | Talking head | [GitHub](https://github.com/OpenTalker/SadTalker) |
 | FILM | Frame interpolation | [GitHub](https://github.com/google-research/frame-interpolation) |
 | RIFE | Real-time interpolation | [GitHub](https://github.com/megvii-research/ECCV2022-RIFE) |
+| ShortSmash | Prompt-to-published short video pipeline | [GitHub](https://github.com/hydope/shortsmash) |
 
 ## APIs & Developer Tools
 
