@@ -113,6 +113,8 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Corpse Bride AI](https://corpsebride.cc) | Photo → cemetery dance | Independent fan tool; ~10s 9:16; from $8.88 |
+| [White Chicks AI](https://whitechicks.cc) | Photo → convertible sing | Independent fan tool; duo/pet; from $8.88 |
 
 ## Open Source
 
