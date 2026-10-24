@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Effect Video](https://effect.video) | Viral photo-to-video templates | Upload a photo, pick AI dance / hotel lobby / anime / lip sync templates, get a short TikTok/Reels clip |
 
 ## Open Source
 
