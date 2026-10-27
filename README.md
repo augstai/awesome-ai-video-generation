@@ -114,6 +114,31 @@ Animate still images.
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
 
+| [airapvideo](https://ai-rap-video.asia) | Vocals+photo → lip-sync rap | Independent fan tool; from $8.88 |
+| [Alors on Danse AI](https://tryalorsondanse.video) | Two photos → studio dance | Independent fan tool; from $8.88 |
+| [Bad Times AI](https://badtimesai.cc) | Photo → quarrel/lip-sync | Independent fan tool; from $8.88 |
+| [bbywowguy AI](https://bbywowguyai.cc) | Photo → quince meme | Independent fan tool; from $8.88 |
+| [Burning Bridges AI](https://burningbridgesvideoai.com) | Photos → party template | Independent fan tool; from $8.88 |
+| [Cat in the Hat AI](https://catinthehat.cc) | Photo → doorbell prank | Independent fan tool; from $8.88 |
+| [ChatGTT](https://chatgtt.cc) | Photo → card-declined meme | Independent fan tool; from $8.88 |
+| [Cheba Man AI](https://chebamanai.cc) | Full-body photo → Tecktonik | Independent fan tool; from $8.88 |
+| [Choosin Texas AI](https://choosintexas.run) | Photo → emo rooftop cover | Independent fan tool; from $8.88 |
+| [Chuttamalle Dance AI](https://trychuttamalle.app) | Portrait → generative dance | Independent fan tool; from $8.88 |
+| [coralineai](https://coralineai.run) | Selfie → button-eyes reveal | Independent fan tool; from $8.88 |
+| [Devil Wears Prada AI](https://pradaai.cc) | Photo → street glow-up | Independent fan tool; from $8.88 |
+| [Flying Roadster AI](https://flyingcarai.cc) | Selfie → night ramp flip | Independent fan tool; from $8.88 |
+| [Hotel Lobby AI](https://tryhotellobby.app) | Two photos → lobby duo | Independent fan tool; from $8.88 |
+| [JeanPhilAI](https://jeanphilai.cc) | Photo → blond bob clip | Independent fan tool; from $8.88 |
+| [Kiss Cam AI](https://coldplayaffairai.cc) | Photos → kiss-cam | Independent fan tool; from $8.88 |
+| [Raindance AI](https://raindanceai.click) | Two photos → pier sequence | Independent fan tool; from $8.88 |
+| [RemixMeme](https://remixmeme.com) | Photos → meme video | Independent fan tool; from $8.88 |
+| [Rumpelstiltskin Dance AI](https://rumpelstiltskindance.video) | Photos → barn tip-toe dance | Independent fan tool; from $8.88 |
+| [ShanShenBu AI](https://shanshenbuai.cc) | Photo → flash-step dance | Independent fan tool; from $8.88 |
+| [venommakeup AI](https://venommakeup.cc) | Photo → half-face goo | Independent fan tool; from $8.88 |
+| [Victoria Secret AI](https://victoriasecretai.cc) | Photo → angel runway | Independent fan tool; from $8.88 |
+| [wywmysweetie AI](https://wywmysweetie.run) | Photo → jersey-club dance | Independent fan tool; from $8.88 |
+| [ZombieHug](https://aizombie.app) | Two photos → zombie love story | Independent fan tool; from $8.88 |
+
 ## Open Source
 
 Self-hostable, free models.
