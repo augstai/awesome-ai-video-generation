@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Uptown Funk AI Video](https://uptownfunkaivideo.com/) | Dance trend videos | One selfie to a 15-second Uptown Funk dance clip with the song. Paid credit packs from $9.99 |
 
 ## Open Source
 
