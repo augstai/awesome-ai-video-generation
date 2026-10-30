@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Dance AI Generator](https://danceaigenerator.com) | Dance videos | One photo to a 6s 9:16 dance clip; paid per video |
 
 ## Open Source
 
