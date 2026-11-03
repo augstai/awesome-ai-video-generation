@@ -34,6 +34,7 @@ Generate video from text prompts. The core AI video tech.
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
+| [Cyanvid](https://cyanvid.com/?utm_source=augstai-awesome-ai-video-generation&utm_medium=directory&utm_campaign=backlinks) | Subscription credits | Creators, marketers | Text/image to video with exact credit quotes before you generate. |
 
 ## AI Avatars & Talking Heads
 
@@ -83,6 +84,7 @@ AI-powered editing, not generation.
 | [Topaz Video AI](https://topazlabs.com) | $299 one-time | Upscaling | Best-in-class enhancement |
 | [Runway (Edit)](https://runwayml.com) | $15-76/mo | Advanced effects | Inpainting, remove objects |
 | [Wisecut](https://wisecut.video) | $15-57/mo | Auto-editing | Removes silences, pauses |
+| [Barz Studio](https://barzvideo.com/?utm_source=augstai-awesome-ai-video-generation&utm_medium=directory&utm_campaign=backlinks) | Free in browser | Rap / lyric videos | Beat-reactive lyric video from your track; sync lyrics, export 9:16 WebM. |
 
 ## Lip Sync & Voice
 
