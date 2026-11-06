@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Heart Bicep AI](https://heartbicepai.com/) | Bicep heart trend clips | One photo → 7s vertical video; free still preview, then $2.99 / $6.99 / $19.99 packs |
 
 ## Open Source
 
