@@ -105,6 +105,7 @@ Animate still images.
 
 | Tool | Best For | Notes |
 |------|----------|-------|
+| [ReelAI](https://tryreelai.com/) | Short videos from photos | Template-based creation; subscriptions from $19.90/month |
 | [Runway Image-to-Video](https://runwayml.com) | Professional | Part of Gen-3/4 suite |
 | [Pika Image-to-Video](https://pika.art) | Quick animations | Easy interface |
 | [Luma Dream Machine](https://lumalabs.ai) | Prototyping | Fast generations |
