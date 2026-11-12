@@ -96,6 +96,7 @@ Sync AI or real voices to video.
 | [Fal.ai Sync](https://fal.ai) | API pricing | Fast, scalable lip sync |
 | [Rask AI](https://rask.ai) | $60-600/mo | Video dubbing + lip sync |
 | [Heygen Lip Sync](https://heygen.com) | Part of HeyGen | Built into avatar platform |
+| [AI Rap Video](https://rapaivideo.net) | Freemium | Turns two selfies into a lip-synced rap music video with AI-written lyrics and beat. |
 | [Pika Lip Sync](https://pika.art) | Part of Pika | Integrated feature |
 | [LivePortrait](https://github.com/KwaiVGI/LivePortrait) | Free (open source) | Portrait animation |
 
