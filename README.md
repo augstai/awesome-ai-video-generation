@@ -34,6 +34,7 @@ Generate video from text prompts. The core AI video tech.
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
+| [AlphaDrama](https://www.getalphadrama.com) | Freemium | AI short dramas & series | Turns web novels or scripts into 9:16 episodes with locked 3-view characters, lip-sync & captions. |
 
 ## AI Avatars & Talking Heads
 
@@ -67,6 +68,7 @@ Tools specifically built for performance marketing and ad creative.
 | [Waymark](https://waymark.com) | $50+/mo | Local business ads | TV commercial quality |
 | [Munch](https://getmunch.com) | $49-199/mo | Repurposing | Long-form to clips |
 | [Opus Clip](https://opus.pro) | $19-99/mo | Clip extraction | AI picks best moments |
+| [AlphaDrama](https://www.getalphadrama.com) | Freemium | Short drama & product ads | Script or product photo to 9:16 vertical episodes and UGC ads with multi-model routing. |
 
 ## Video Editing & Enhancement
 
