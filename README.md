@@ -111,6 +111,7 @@ Animate still images.
 | [Stable Video Diffusion](https://stability.ai) | Developers | Open weights |
 | [D-ID](https://d-id.com) | Talking photos | Animate any face |
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
+| [MemeVibe](https://memevibe.ai/) | Short meme and dance clips | Paid from $6.99 per video; animates one or two photos using preset scenes |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
 
