@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Pavo AI](https://pavoai.app/) | Short drama & social clips | Text-to-video and image-to-video with a reusable cast for cross-shot consistency; free tier |
 
 ## Open Source
 
