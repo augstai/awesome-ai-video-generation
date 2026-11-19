@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [HotDance AI](https://hotdanceai.com/) | AI dance & character motion | Motion transfer from photos using Kling Motion Control & Seedance; pay-as-you-go packs from $9.90, 0-credit preview, no watermark |
 
 ## Open Source
 
