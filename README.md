@@ -113,6 +113,8 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [Tiny Desk AI](https://tinydeskai.info/) | 1–5 photo band clips | 9:16 watermark-free MP4, 1-click demo, $9.99 one-time |
+| [Migos AI Video](https://migos-aivideo.com/) | 2-photo rap duos | Orange COLORS Show booth, free preview, $3.99 Flash Hook Pass |
 
 ## Open Source
 
