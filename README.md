@@ -146,6 +146,7 @@ Build video AI into your products.
 | [HeyGen API](https://docs.heygen.com) | Enterprise avatars | Custom integrations |
 | [Sync Labs API](https://docs.synclabs.so) | Lip sync | High-quality sync |
 | [Luma API](https://docs.lumalabs.ai) | Dream Machine | Video generation |
+| [i2v.ai API](https://i2v.ai/docs/api) | Image + video generation | 12 image and 16 video models, USD quote before each task |
 
 ## Learning Resources
 
